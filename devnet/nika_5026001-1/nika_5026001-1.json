@@ -1,0 +1,35 @@
+{
+"chainId": "nika_5026001-1",
+"chainName": "nika_5026001-1",
+"rpc": ""http://144.91.97.2:26657",
+"rest": "http://144.91.97.2:1317",
+"bech32Prefix": "ethm",
+"currencies": [
+{
+"displayDenom": "avail",
+"baseDenom": "uavail",
+"decimals": 18,
+"logo": "/logos/nika_5026001-1.png",
+"type": "main"
+}
+],
+"coinType": 60,
+"faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+"website": "",
+"logo": "/logos/nika_5026001-1.png",
+"ibc": {
+"hubChannel": "channel-9357",
+"channel": "channel-0",
+"timeout": 172800000
+},
+"evm": {
+"chainId": "0x4cb0d1",
+"rpc": ""http://144.91.97.2:8545"
+},
+"type": "RollApp",
+"da": "Avail",
+"description": "TA node ",
+"analytics": true
+"goldberg": true,
+"availAddress": "5FZd5bKT65smKR2YLr2pYVrCMuG8hw18Jii7cXaErbe9NKon"
+}
