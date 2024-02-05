@@ -1,7 +1,7 @@
 {
 "chainId": "nika_5026001-1",
 "chainName": "nika_5026001-1",
-"rpc": ""http://144.91.97.2:26657",
+"rpc": "http://144.91.97.2:26657",
 "rest": "http://144.91.97.2:1317",
 "bech32Prefix": "ethm",
 "currencies": [
@@ -24,7 +24,7 @@
 },
 "evm": {
 "chainId": "0x4cb0d1",
-"rpc": ""http://144.91.97.2:8545"
+"rpc": "http://144.91.97.2:8545"
 },
 "type": "RollApp",
 "da": "Avail",
